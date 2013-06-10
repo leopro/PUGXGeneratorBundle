@@ -2,6 +2,7 @@ PUGXGeneratorBundle
 ===================
 
 This bundle is an extension of [SensioGeneratorBundle](https://github.com/sensio/SensioGeneratorBundle).
+This branch (1.0) supports SensioGeneratorBundle 2.2
 
 It adds many functionality on top of it, and corrects some minor issues:
 * pages with layout (main block name is customizable)
